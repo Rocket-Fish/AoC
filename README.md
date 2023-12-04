@@ -28,3 +28,5 @@ Execute the script using Yarn with the desired arguments. For example:
 ```bash
 yarn start --day 3 --year 2023 --sessionCookie 234jdfj2i3jro3jo13j5
 ```
+
+alternatively add `SESSION_COOKIE=value` to an `.env` file in your project root directory
