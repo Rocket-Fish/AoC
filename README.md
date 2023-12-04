@@ -1,11 +1,13 @@
-# Advent of Code Script Runner
+# Advent of Code
 
-## Introduction
+contains my solutions to advent of code stuff. Also contains a scrip runner to help automate some stuff.
+
+## Script Runner
 
 Script runner for the [Advent of Code](https://adventofcode.com/) challenges. Handles all the boilerplate code for running AOC scripts and obtaining the test data.
 This version has been copied from https://github.com/yrova/Advent-Of-Code-Runner
 
-## Features
+## Script Runner Features
 
 - **Automatic Input (Test data) Retrieval:** If an input file for a specific day is missing, the script automatically downloads it, assuming you've provided a valid session token.
 - **Manual Input Placement:** You have the option to manually place the `input.txt` file in the appropriate input folder, organized by year and day.
